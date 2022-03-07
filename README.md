@@ -5,6 +5,7 @@ I wanna be a developer.
 - 📫 How to reach me: jwv0323@naver.com
 
 <a href="https://afk0323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-logoColor=#F46D01"/></a>
+<a href="https://afk0323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-#F46D01?style=flat-square"/></a>
 
 <!--
 **afk0323/afk0323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
