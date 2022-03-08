@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌈 I’m currently learning front-end, back-end
-- ✨ How to reach me: jwv0323@naver.com
+- 🌱 I’m currently learning front-end, back-end
+- 📬 How to reach me: jwv0323@naver.com
 
 <a href="https://afk0323.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EA4AAA?style=flat&"/></a>
 <a href="https://github.com/afk0323" target="_blank"><img src="https://img.shields.io/badge/Github-7E4DD2?style=flat&"/></a>
