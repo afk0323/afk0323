@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning front-end, back-end
+- 🌱 I’m currently learning front-end
 - 📬 How to reach me: jwv0323@naver.com
 <!--
 
