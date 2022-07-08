@@ -19,7 +19,6 @@
 <div align="center" style="text-align:center">
 
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=afk0323)](https://afk0323.tistory.com/)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=afk0323&postId=79)](https://afk0323.tistory.com/)
   
 </div>
   
