@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://afk0323.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=iCloud&logoColor=white&link=https://afk0323.tistory.com/"/></a>&nbsp
-  <a href="https://www.instagram.com/afk_0323/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/afk_0323/"/></a>&nbsp
+  <a href="https://www.instagram.com/la.diolus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/afk_0323/"/></a>&nbsp
   <a href="mailto:jwv0323@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jwv0323@naver.com"/></a>
 </p>
 
