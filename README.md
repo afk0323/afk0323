@@ -18,7 +18,7 @@
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ladiolus)](https://github.com/eungyeole/velog-readme-stats)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ladiolus)](https://velog.io/@ladiolus)
   
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=afk0323)](https://afk0323.tistory.com/)
   
